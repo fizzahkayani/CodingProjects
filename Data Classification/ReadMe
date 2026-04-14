@@ -1,4 +1,11 @@
-# Developed binary classifier to distinguish spam vs. ham emails
-# Engineered custom text features using regex and tokenization
-# Implemented logistic regression model with precision/recall evaluation
-# Optimized classification threshold to improve F1 score 
+PROJECT B1 & B2
+Developed binary classifier to distinguish spam vs. ham emails
+Engineered custom text features using regex and tokenization
+Implemented logistic regression model with precision/recall evaluation
+Optimized classification threshold to improve F1 score 
+
+PROJECT A2
+Built end-to-end regression pipeline in Python to predict housing prices using feature engineering and log transformations
+Implemented OLS, regularization techniques, and cross-validation
+Performed outlier detection and data cleaning to improve model robustness
+Evaluated model performance using RMSE and R² metrics
