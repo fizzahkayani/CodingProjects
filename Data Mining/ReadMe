@@ -1,0 +1,6 @@
+Box Office Revenue Prediction Model
+Built regression models in Python to predict domestic box office revenue using film metadata (budget, genre, release month, cast popularity, studio)
+Engineered categorical and time-based features; applied log transformation to reduce skew
+Implemented OLS and regularized regression models with cross-validation
+Evaluated model performance using RMSE and R² metrics
+Conducted feature importance analysis to identify key revenue drivers
