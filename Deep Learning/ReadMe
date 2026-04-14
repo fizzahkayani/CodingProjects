@@ -1,0 +1,8 @@
+Machine Learning & Deep Learning Projects (Data 188, UC Berkeley)
+Built end-to-end deep learning pipelines in PyTorch, including data loading, model training, evaluation, and performance tracking for image classification tasks.
+Implemented a two-layer neural network from scratch (NumPy + autograd-style logic), including forward pass, backpropagation, and stochastic gradient descent optimization.
+Designed and trained multilayer perceptron (MLP) classifiers on Fashion-MNIST and CIFAR-10, achieving competitive accuracy benchmarks (~40% on CIFAR-10).
+Developed a modular training framework with custom train_epoch and test loops, including throughput tracking, logging, and evaluation metrics (accuracy, loss).
+Built a Convolutional Neural Network (CNN) with residual connections, including custom Conv blocks (Conv → BatchNorm → ReLU) and skip connections inspired by ResNet architectures.
+Applied adaptive pooling and architectural design principles to handle variable spatial dimensions and optimize model performance.
+Debugged and optimized models for correctness and efficiency, including parameter validation, memory management (e.g., .item() usage), and device-aware training (CPU/GPU).
