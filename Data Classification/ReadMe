@@ -1,0 +1,4 @@
+# Developed binary classifier to distinguish spam vs. ham emails
+# Engineered custom text features using regex and tokenization
+# Implemented logistic regression model with precision/recall evaluation
+# Optimized classification threshold to improve F1 score 
